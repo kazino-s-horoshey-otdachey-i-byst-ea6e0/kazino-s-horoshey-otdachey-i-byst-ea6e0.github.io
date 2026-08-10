@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Host: kazino-s-horoshey-otdachey-i-byst-ea6e0.github.io
+Sitemap: https://kazino-s-horoshey-otdachey-i-byst-ea6e0.github.io/sitemap.xml
